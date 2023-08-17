@@ -19,8 +19,8 @@
         "api": "http://vipmv.cc/api.php/provide/vod/",
         "jiexiUrl": "https://titan.mgtv.com.o8tv.com/jiexi/?url=",
         "group": "影视",
-        "isActive": false,
-        "status": false,
+        "isActive": true,
+        "status": true,
         "type": 1,
         "id": 2
       },
@@ -41,8 +41,8 @@
         "api": "http://zy.ataoju.com/inc/api.php",
         "jiexiUrl": "",
         "group": "影视",
-        "isActive": false,
-        "status": false,
+        "isActive": true,
+        "status": true,
         "id": 4
       },
       {
@@ -129,8 +129,8 @@
         "api": "https://kudianzy.com/api.php/provide/vod/",
         "jiexiUrl": "",
         "group": "影视",
-        "isActive": false,
-        "status": false,
+        "isActive": true,
+        "status": true,
         "type": 1,
         "id": 12
       },
@@ -207,8 +207,8 @@
         "api": "https://ckzy.me/api.php/provide/vod/",
         "jiexiUrl": "",
         "group": "影视",
-        "isActive": false,
-        "status": false,
+        "isActive": true,
+        "status": true,
         "type": 1,
         "id": 19
       },
@@ -331,8 +331,8 @@
         "download": "",
         "jiexiUrl": "",
         "group": "影视",
-        "status": false,
-        "isActive": false,
+        "status": true,
+        "isActive": true,
         "type": 1,
         "id": 35
       },
@@ -829,7 +829,7 @@
         "id": 6,
         "name": "CQYX",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
-        "isActive": false,
+        "isActive": true,
         "type": "remote",
         "epg": ""
       },
@@ -853,7 +853,7 @@
         "id": 9,
         "name": "GHYX",
         "url": "https://telegram-feiyangdigital.v1.mk/ghyx.m3u",
-        "isActive": false,
+        "isActive": true,
         "type": "remote",
         "epg": ""
       },
@@ -869,7 +869,7 @@
         "id": 11,
         "name": "爱尚",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
-        "isActive": false,
+        "isActive": true,
         "type": "remote",
         "epg": ""
       },
@@ -901,7 +901,7 @@
         "id": 15,
         "name": "pastebin",
         "url": "https://pastebin.com/raw/ZvKmAfRg",
-        "isActive": false,
+        "isActive": true,
         "type": "remote",
         "epg": ""
       },
